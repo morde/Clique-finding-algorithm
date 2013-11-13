@@ -7,3 +7,5 @@ You are all welcome to make any use of this project but - do it on you own risk.
 
 Simon Kenin / Sergey Stavchansky
 Morde All_Cliques
+
+Chen, mark, boaz, tal
